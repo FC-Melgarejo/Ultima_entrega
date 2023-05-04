@@ -1,0 +1,22 @@
+.cartwidget {
+  display: none;
+  position: relative;
+  color: #fff;
+  text-decoration: none;
+}
+
+.cartwidget:hover {
+  color: #ffc107;
+}
+
+.box-icon {
+  margin-right: 5px;
+  font-size: 24px;
+}
+
+.cartwidget span {
+  font-size: 16px;
+}
+
+
+  
